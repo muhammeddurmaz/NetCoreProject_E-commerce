@@ -5,9 +5,4 @@
     <RootNamespace>E_commerce.WebUI</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="Views\" />
-  </ItemGroup>
-
 </Project>
